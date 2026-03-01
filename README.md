@@ -27,7 +27,8 @@
 
 > The night falls, and the monsters surge like a tide. As the last witch, can you survive the endless darkness until dawn?
 
-**Witch Survivor** is a fast-paced, rogue-lite survival game inspired by the bullet-heaven genre. You play as a powerful witch facing off against thousands of relentless monsters. By defeating enemies and collecting experience, you will unlock, upgrade, and combine a variety of magical spells to create the ultimate build. Survive the horde, defeat epic bosses, and carve a path through the darkness!
+**Witch Survivor** is a C++ 2D action game in a Vampire Survivors–style roguelike, with player movement and combat, NPC AI and projectiles, tile-based world, camera follow, and save/load, built on a custom graphics framework.This project leverages the GamesEngineeringBase C++ framework to demonstrate core game development principles and technologies.
+
 
 <br>
 
