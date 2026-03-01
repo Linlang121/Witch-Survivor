@@ -41,15 +41,18 @@ https://github.com/user-attachments/assets/1b68f0d7-8c6c-44d8-8c6d-c900d9faa469
 
 <br>
 
-## ✨ Core Features
+### ✨ Core Features
 
-* 🧙‍♀️ **Play as a Legendary Witch:** Choose from different characters, each with unique starting magic and passive traits.
-* 💥 **Bullet-Heaven Combat:** Face thousands of enemies on screen at once and experience the thrill of clearing massive hordes.
-* 🃏 **Deep Spell Building:** Mix and match dozens of active spells and passive relics. Discover powerful synergies and evolutions.
-* 🗺️ **Diverse Maps:** Survive in different environments, from the Dark Forest to the Bone Graveyard, each with unique enemy types and bosses.
-* 🕹️ **Simple Controls:** Minimalist one-hand/keyboard gameplay. Your spells cast automatically—you just focus on positioning and strategy!
-
+* 🎥 **Custom 2D Virtual Camera System:** Implements robust world-to-screen coordinate transformations to ensure seamless entity tracking and fluid rendering.
+* 👾 **Dynamic Spawning & Difficulty Scaling:** Features four distinct enemy archetypes (Melee, Tank, Ranged, and Elite). Utilizes optimized off-screen spawning algorithms coupled with adaptive difficulty progression.
+* 💥 **High-Precision Collision Detection:** Employs a hybrid collision architecture, combining circular bounding boxes with multi-point tile collision queries for accurate spatial interactions.
+* 🎯 **Advanced Targeting & Ballistics:** Implements linear projectile trajectories targeting the nearest entity, visually augmented by **Bresenham's Line Algorithm**. Features intelligent AOE mechanics that dynamically sort and target enemies based on HP thresholds.
+* ⚡ **Dynamic Progression System:** Kill-triggered enhancement loop that programmatically modifies player DPS via real-time fire rate buffs and increased AOE target caps.
+* 🗺️ **Optimized Rendering Pipeline:** Built on a data-driven tilemap architecture utilizing strict **Viewport Culling**, significantly reducing draw calls and rendering overhead for out-of-bounds sprites.
+* 💾 **Lightweight Data Persistence:** Features a custom **Binary Serialization** system for rapid, low-overhead game state saving and loading (Hotkeyed to `K`/`L`).
+* 📊 **Built-in Telemetry:** Integrated real-time FPS monitoring and basic performance profiling tools to track rendering and logic bottlenecks on the fly.
 <br>
+
 
 ## 🖼️ Gallery
 
