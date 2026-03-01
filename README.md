@@ -1,4 +1,4 @@
-<div align="center">
+
 <img width="775" height="459" alt="Witch Survivor Banner" src="https://github.com/user-attachments/assets/aecc2f91-7aad-42b5-87db-e4dfd3c11e22" />
 
 
@@ -32,14 +32,6 @@
 * 💾 **Lightweight Data Persistence:** Features a custom **Binary Serialization** system for rapid, low-overhead game state saving and loading (Hotkeyed to `K`/`L`).
 * 📊 **Built-in Telemetry:** Integrated real-time FPS monitoring and basic performance profiling tools to track rendering and logic bottlenecks on the fly.
 
-## 🚀 Build & Run
-
-1. Clone the repository to your local machine.
-2. Open the solution file (`.sln`) in **Visual Studio 2022**.
-3. Ensure the active solution platform is set to **x64**.
-4. Make sure you have the necessary Windows SDK installed (Windows 10 or 11 SDK) with DirectX 12 support.
-5. Build the solution (`Ctrl + Shift + B`).
-6. Run the project (`F5` or `Ctrl + F5`) to launch the playable level.
 ## 🎥 Demo Video
 
 
