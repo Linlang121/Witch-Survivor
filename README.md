@@ -31,7 +31,6 @@
 * 🗺️ **Optimized Rendering Pipeline:** Built on a data-driven tilemap architecture utilizing strict **Viewport Culling**, significantly reducing draw calls and rendering overhead for out-of-bounds sprites.
 * 💾 **Lightweight Data Persistence:** Features a custom **Binary Serialization** system for rapid, low-overhead game state saving and loading (Hotkeyed to `K`/`L`).
 * 📊 **Built-in Telemetry:** Integrated real-time FPS monitoring and basic performance profiling tools to track rendering and logic bottlenecks on the fly.
-<br>
 
 
 ## 🎥 Demo Video
