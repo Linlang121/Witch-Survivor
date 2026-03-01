@@ -1,7 +1,7 @@
 <div align="center">
 <img width="775" height="459" alt="Witch Survivor Banner" src="https://github.com/user-attachments/assets/aecc2f91-7aad-42b5-87db-e4dfd3c11e22" />
 
-<img src="https://via.placeholder.com/800x300/4B0082/FFFFFF?text=Witch+Survivor+Banner" alt="" width="100%">
+
 
 # 🔮 Witch Survivor
 
