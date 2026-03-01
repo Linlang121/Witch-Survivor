@@ -7,19 +7,6 @@
 
 **A magic-themed rogue-lite horde survival game.**
 
-<p align="center">
-  <a href="https://github.com/Linlang121/Witch-Survivor/stargazers">
-    <img src="https://img.shields.io/github/stars/Linlang121/Witch-Survivor?style=for-the-badge&color=8A2BE2" alt="Stars">
-  </a>
-  <a href="https://github.com/Linlang121/Witch-Survivor/network/members">
-    <img src="https://img.shields.io/github/forks/Linlang121/Witch-Survivor?style=for-the-badge&color=4B0082" alt="Forks">
-  </a>
-  <a href="https://github.com/Linlang121/Witch-Survivor/issues">
-    <img src="https://img.shields.io/github/issues/Linlang121/Witch-Survivor?style=for-the-badge&color=FF69B4" alt="Issues">
-  </a>
-</p>
-
-</div>
 
 ---
 
