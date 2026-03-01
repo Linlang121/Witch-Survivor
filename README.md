@@ -38,7 +38,7 @@
 
 
 https://github.com/user-attachments/assets/1b68f0d7-8c6c-44d8-8c6d-c900d9faa469
-<br>
+
 ## 🚀 Build & Run
 
 1. Clone the repository to your local machine.
