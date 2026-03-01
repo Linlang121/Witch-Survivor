@@ -38,5 +38,14 @@
 
 
 https://github.com/user-attachments/assets/1b68f0d7-8c6c-44d8-8c6d-c900d9faa469
+<br>
+## 🚀 Build & Run
+
+1. Clone the repository to your local machine.
+2. Open the solution file (`.sln`) in **Visual Studio 2022**.
+3. Ensure the active solution platform is set to **x64**.
+4. Make sure you have the necessary Windows SDK installed (Windows 10 or 11 SDK) with DirectX 12 support.
+5. Build the solution (`Ctrl + Shift + B`).
+6. Run the project (`F5` or `Ctrl + F5`) to launch the playable level.
 
 
