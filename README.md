@@ -34,9 +34,10 @@
 
 ## 🎥 Demo Video
 
-[![Witch Survivor Gameplay Demo](https://via.placeholder.com/800x450/333333/FFFFFF?text=Click+to+Watch+Gameplay+Video)](https://www.youtube.com/watch?v=your_video_id_here)
 
-*(Click the image above to watch the gameplay trailer!)*
+https://github.com/user-attachments/assets/1b68f0d7-8c6c-44d8-8c6d-c900d9faa469
+
+
 
 <br>
 
