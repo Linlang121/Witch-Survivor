@@ -30,13 +30,6 @@
 **Witch Survivor** is a C++ 2D action game in a Vampire Survivors–style roguelike, with player movement and combat, NPC AI and projectiles, tile-based world, camera follow, and save/load, built on a custom graphics framework.This project leverages the GamesEngineeringBase C++ framework to demonstrate core game development principles and technologies.
 
 
-<br>
-
-## 🎥 Demo Video
-
-
-https://github.com/user-attachments/assets/1b68f0d7-8c6c-44d8-8c6d-c900d9faa469
-
 
 
 <br>
@@ -54,30 +47,9 @@ https://github.com/user-attachments/assets/1b68f0d7-8c6c-44d8-8c6d-c900d9faa469
 <br>
 
 
-## 🖼️ Gallery
+## 🎥 Demo Video
 
-Explore the world and mechanics of *Witch Survivor*:
 
-| <img src="https://via.placeholder.com/400x225/222222/FFFFFF?text=Screenshot+1" alt="Magic Swarm"> | <img src="https://via.placeholder.com/400x225/222222/FFFFFF?text=Screenshot+2" alt="Boss Fight"> |
-| :---: | :---: |
-| **Magic Swarm** | **Epic Boss Fights** |
-| <img src="https://via.placeholder.com/400x225/222222/FFFFFF?text=Screenshot+3" alt="Upgrade Menu"> | <img src="https://via.placeholder.com/400x225/222222/FFFFFF?text=Screenshot+4" alt="Character Select"> |
-| **Skill Upgrades & Evolutions** | **Character Selection** |
+https://github.com/user-attachments/assets/1b68f0d7-8c6c-44d8-8c6d-c900d9faa469
 
-<br>
 
-## 🚀 Getting Started
-
-Follow these steps to get a copy of the project up and running on your local machine for development and testing.
-
-### Prerequisites
-
-* **Game Engine:** [Insert your engine here, e.g., Unity 2022.3 LTS / Godot 4.x]
-* **OS:** Windows 10/11, macOS, or Linux
-* **Git:** Make sure you have Git installed.
-
-### Installation & Running
-
-**1. Clone the repository**
-```bash
-git clone [https://github.com/Linlang121/Witch-Survivor.git](https://github.com/Linlang121/Witch-Survivor.git)
